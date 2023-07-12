@@ -1,0 +1,56 @@
+objs//home/nafis/ci_cd/unitTest/cppUtest_/tests/average/main.o: \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tests/average/main.cpp \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CppUTestConfig.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CppUTestGeneratedConfig.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/StandardCLibrary.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CommandLineTestRunner.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestHarness.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/Utest.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/SimpleString.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/UtestMacros.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestResult.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestFailure.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestPlugin.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestOutput.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CommandLineArguments.h \
+ /home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestFilter.h
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CppUTestConfig.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CppUTestGeneratedConfig.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/StandardCLibrary.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakDetectorMallocMacros.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CommandLineTestRunner.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestHarness.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/Utest.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/SimpleString.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/UtestMacros.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestResult.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestFailure.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestPlugin.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakWarningPlugin.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/MemoryLeakDetectorNewMacros.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestOutput.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/CommandLineArguments.h:
+
+/home/nafis/ci_cd/unitTest/cppUtest_/tools/cpputest/include/CppUTest/TestFilter.h:
